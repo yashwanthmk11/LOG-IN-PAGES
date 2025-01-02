@@ -12,14 +12,6 @@ This is a simple and elegant login form created with HTML and CSS, featuring int
 - **Interactive Button** that changes color and slightly enlarges on hover.
 - **User-friendly Form** with clear labels and input fields.
 
-## Demo
-
-You can view a live demo of the form [here](#) (link to your live demo, if available).
-
-## Screenshots
-
-![Login Form](screenshots/login-form.png)  
-*Example of the login form interface.*
 
 ## Installation
 
