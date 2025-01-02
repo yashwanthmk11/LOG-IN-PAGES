@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
    cd login-form-css-transforms
 3.Open the HTML file in a browser: Simply open index.html in your preferred browser to view the form.
 
-File Structure
+## File Structure
 login-form-css-transforms/
 ├── index.html         # Main HTML file for the login form
 ├── styles.css         # CSS styles for the form and animations
@@ -32,7 +32,7 @@ login-form-css-transforms/
 └── screenshots/        # Folder for any project screenshots (optional)
 
 
-Technologies Used
+## Technologies Used
 HTML: The structure of the form.
 CSS: Styling the form, including:
 CSS Transforms
@@ -41,7 +41,7 @@ Flexbox for layout
 Responsive Design for mobile view
 Background image with blur effect
 
-**Customization**
+## **Customization**
 Feel free to customize the form for your own use. You can change:
 
 The background image by modifying the URL in the background-image property in the CSS file.
@@ -49,17 +49,17 @@ The colors, font sizes, and padding for input fields, labels, and buttons by edi
 The form action in the index.html file to handle the form submission according to your server or backend logic.
 
 
-**License**
+## **License**
 This project is open source and available under the MIT License.
 
-**Contributing**
+## **Contributing**
 Contributions are always welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
 
-**Acknowledgements**
+## **Acknowledgements**
 Thanks to Pexels for the beautiful background image used in this form.
 (Image URL: pexels.com/photo/1103970)
 
-**Contact**
+## **Contact**
 For any questions or inquiries, please feel free to reach out to me via GitHub issues or email at [mkyashwanth3@gmail.com].
 
 
